@@ -50,12 +50,12 @@ Menu:
 6. Audit Application Integrity
 7. Exit
 
-## Requirements
+### Requirements
 - Python 3.x
 
-## Contributing
+### Contributing
 - Feel free to contribute by modifying the code, improving functionality, or adding new features. Submit your changes via pull requests.
 
-## License
+### License
 - This project is open-source and available under the MIT License.
 
