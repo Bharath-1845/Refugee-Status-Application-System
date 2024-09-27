@@ -28,6 +28,7 @@ To run the program, ensure you have Python installed. You can execute the script
 2. **Choose an option**: Enter a number (1-7) to select an action.
 3. **Follow prompts**: Provide necessary inputs based on the selected action.
 
+
 ## Menu Options
 
 1. **Create Application**: Input application ID, applicant name, and country.
